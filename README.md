@@ -11,8 +11,7 @@ Follow the screenshot
 helm install --values=newvalues.yaml <chartname>----> Values get updated
 
 helm install --set image=mysql 4.0
-![Screenshot (15)](https://github.com/adityasneo/K8s/assets/128022129/44bb1848-48a9-4501-b73f-e1b0f3eae444)
  
-  
-  
-  
+helm install resources in order
+ 
+![Screenshot (15)](https://github.com/adityasneo/K8s/assets/128022129/44bb1848-48a9-4501-b73f-e1b0f3eae444)
