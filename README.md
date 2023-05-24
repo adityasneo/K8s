@@ -6,5 +6,6 @@ Helm is a package manager for K8s
 Below commands can use if version or values need to change
 helm install <chartname>
 ![Screenshot (14)](https://github.com/adityasneo/K8s/assets/128022129/d2f6f5e4-481e-49c9-b5b0-ae23b2b0c852)
- 
-
+Follow the screenshot
+helm install --values=newvalues.yaml ----> Values get updated
+helm install --set image=mysql 4.0
